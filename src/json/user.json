@@ -1,0 +1,29 @@
+{
+  "6285887535711@s.whatsapp.net": {
+    "jid": "6285887535711@s.whatsapp.net",
+    "name": "HikikomoriSan"
+  },
+  "6281378200400@s.whatsapp.net": {
+    "jid": "6281378200400@s.whatsapp.net",
+    "notify": "neyvawati13",
+    "id": "6281378200400@c.us",
+    "isAdmin": true,
+    "isSuperAdmin": true,
+    "name": "neyvawati13"
+  },
+  "6281268608940@s.whatsapp.net": {
+    "jid": "6281268608940@s.whatsapp.net",
+    "notify": "Endang Ridwan",
+    "id": "6281268608940@c.us",
+    "isAdmin": true,
+    "isSuperAdmin": false,
+    "name": "Endang Ridwan"
+  },
+  "6288289352686@s.whatsapp.net": {
+    "jid": "6288289352686@s.whatsapp.net",
+    "id": "6288289352686@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Unknown"
+  }
+}
