@@ -55,10 +55,10 @@
     "botAdmin": "*REJECTED!* | Bot Harus Admin"
   },
   "session": {
-    "clientID": "eKG7PTvJFcTBFuvjUzo6Lw==",
-    "serverToken": "1@pCyjIpmMltW/MxmnwI3ubIo6eRTWsgx0cCeBJg+Fou8Gpskxsy9KTSBIkA7m8mRLqQvXmLkn55iOPQ==",
-    "clientToken": "qIlCuWXI0tjolYNy1k5oGbqRNr9yePd6ZBm2mgs+sS8=",
-    "encKey": "izt0mNwm9SLhuCIufElY9HtPUPmdfdqhKUfKjJTDj1I=",
-    "macKey": "keyx8hmKIFpe+pJKuY0zPUuTVJYSsYn1//3rW+oJ7l0="
+    "clientID": "rv+UVVCXMyP+Ht2dEnDTJw==",
+    "serverToken": "1@V9FNkUN5sRCyO703HLhMAaC4yUtMKALo68bl/huelh6f6Xoh25SqXuHucNZh0u0aoSjxwWfjaVsuLQ==",
+    "clientToken": "A0/AsGnri9VzCHRtYI+Wk6FAWGB/2MfjaUV/Bdg2ba0=",
+    "encKey": "AoR7uK5h3iM3U8Le6kpiRyw0ABARJ6ekWaGzKiO2uy0=",
+    "macKey": "agkuibvtkVStOnKIZal8mvVFjm94nMyfKwgbyKKN+fk="
   }
 }
