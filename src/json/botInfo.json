@@ -16,84 +16,76 @@
     "#",
     "$",
     "%",
-    "^"
-    "&"
-    "*"
-    "("
-    ")"
-    "-"
-    "_"
-    "="
-    "+"
-    ","
-    "<"
-    "."
-    ">"
-    "/"
-    "?"
-    ";"
-    ":"
-    "'"
-    """
-    "\"
-    "|"
-    "{"
-    "["
-    "}"
-    "]"
-    "a"
-    "A"
-    "b"
-    "B"
-    "c"
-    "C"
-    "d"
-    "D"
-    "e"
-    "E"
-    "f"
-    "F"
-    "g"
-    "G"
-    "h"
-    "H"
-    "i"
-    "I"
-    "j"
-    "J"
-    "k"
-    "K"
-    "l"
-    "L"
-    "m"
-    "M"
-    "n"
-    "N"
-    "o"
-    "O"
-    "p"
-    "P"
-    "q"
-    "Q"
-    "r"
-    "R"
-    "s"
-    "S"
-    "t"
-    "T"
-    "u"
-    "U"
-    "v"
-    "V"
-    "w"
-    "W"
-    "x"
-    "X"
-    "y"
-    "Y"
-    "z"
-    "Z"
-    "my"
+    "^",
+    "&",
+    "*",
+    "(",
+    ")",
+    "-",
+    "_",
+    "=",
+    "+",
+    ",",
+    "<",
+    ".",
+    ">",
+    "/",
+    "?",
+    ";",
+    ":",
+    "'",
+    "|",
+    "{",
+    "[",
+    "}",
+    "]",
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z",
+    "my",
+	"lol",
+	"my ",
+	"start",
+	"start ",
+	"mulai",
+	"mulai ",
+	"execute",
+	"execute ",
+	"bot",
+	"bot ",
+	"1",
+	"2",
+	"3",
+	"4",
+	"5",
+	"6",
+	"7",
+	"8",
+	"9",
+	"10"
   ],
   "ownername": "Shinigami Team",
   "unicode": {
@@ -133,8 +125,8 @@
   },
   "session": {
     "clientID": "KUCkBISO8XXZD/CYxWnKbQ==",
-    "serverToken": "1@HW71iM8gOMU+YI8E3CayHQx/rzbv9iMBfZWR4z94s81WCpY7JfQ4RIFHsTK8SsstUvetq/IyZZQuiQ==",
-    "clientToken": "jbwjlklh4shj1ViGZje+t7WbB3KNMYmcIiZpugZIggA=",
+    "serverToken": "1@BNFKj5zJ37SVgraPjrp0G1Ed22x4Hq/+PwGpTcQgDNDIf2EMHVvFK4aWMw31hjvbOEPvYqJaz5f0XQ==",
+    "clientToken": "dsx/QAK8xnvWeMQlOIf7HTuVQnGncBdqZU0aPR9DCWs=",
     "encKey": "TNNoDy33PwFQSR2NSDLX3bu1XhGSa5V1+WFTkbQIV8Y=",
     "macKey": "QasmL+JmsvOlF0HrHIrMoYgwGDX1s6/x7MA8KK1wtKU="
   }
