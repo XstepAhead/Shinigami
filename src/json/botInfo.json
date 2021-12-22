@@ -123,11 +123,5 @@
     "fromMe": "*REJECTED!* | Pesan Yang Di Balas Harus Dari Bot",
     "botAdmin": "*REJECTED!* | Bot Harus Admin"
   },
-  "session": {
-    "clientID": "KUCkBISO8XXZD/CYxWnKbQ==",
-    "serverToken": "1@BNFKj5zJ37SVgraPjrp0G1Ed22x4Hq/+PwGpTcQgDNDIf2EMHVvFK4aWMw31hjvbOEPvYqJaz5f0XQ==",
-    "clientToken": "dsx/QAK8xnvWeMQlOIf7HTuVQnGncBdqZU0aPR9DCWs=",
-    "encKey": "TNNoDy33PwFQSR2NSDLX3bu1XhGSa5V1+WFTkbQIV8Y=",
-    "macKey": "QasmL+JmsvOlF0HrHIrMoYgwGDX1s6/x7MA8KK1wtKU="
-  }
+  "session":null
 }
