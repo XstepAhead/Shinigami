@@ -22,17 +22,8 @@
 ### Changelog
 ```rb
 Added Feature
-- Get Reply (#q)
-- Blocklist (#blocklist)
-- Set Ui / Profile (#setui)
-- Soundcloud Downloader (#soundcloud)
-- Group WhatsApp Search (#carigrub)
-
-Fix/Upgraded Command
-- Generator
-
-Deletion Feature/Function
-- Broadcast Button (Reason : Cringe)
+- SShp
+- Botstats
 ```
 
 ## Installation
