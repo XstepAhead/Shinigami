@@ -21,9 +21,7 @@
 
 ### Changelog
 ```rb
-Added Feature
-- SShp
-- Botstats
+- Shortlink
 ```
 
 ## Installation
