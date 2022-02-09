@@ -33,13 +33,9 @@
 > git clone https://github.com/Zacros-Team/ZacrosBot
 > cd Zacros
 > npm i -g
+> node .
 ```
 
-## Run Bot
-```cmd
-$ cd ZacrosBot
-$ node .
-```
 
 ## Yang perlu di edit
 [`./src/botInfo.json`](./src/json/botInfo.json)
